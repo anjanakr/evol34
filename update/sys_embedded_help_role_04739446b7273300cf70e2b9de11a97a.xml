@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="sn_evol34.t1_user" name="sn_evol34.t1_user">4c739446b7273300cf70e2b9de11a976</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-29 20:59:50</sys_created_on>
+        <sys_id>04739446b7273300cf70e2b9de11a97a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>4c739446b7273300cf70e2b9de11a976</sys_name>
+        <sys_package display_value="evol34" source="sn_evol34">c8231406b7273300cf70e2b9de11a998</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="evol34">c8231406b7273300cf70e2b9de11a998</sys_scope>
+        <sys_update_name>sys_embedded_help_role_04739446b7273300cf70e2b9de11a97a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-29 20:59:50</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
